@@ -14,17 +14,17 @@
 
 <a href="https://twitter.com/Mahmoud42275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahmoud42275" height="30" width="40" /></a>
 
-<a href="https://dev.to/mahmoudessam" target="blank"><img align="center" src=https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="mahmoudessam" height="30" width="40" /></a>
+<a href="https://dev.to/mahmoudessam" target="blank"><img align="center" src=https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="mahmoudessam" height="30" width="40" /></a>
 
 </p>
 
 
-<p>
-
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="left">
 
-<a href="https://www.w3schools.com/html/default.asp/" target="_blank"> <img src="https://https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a> 
+
+<a href="https://www.w3schools.com/html/default.asp/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> </a> 
 
 <a href="https://www.w3schools.com/css/default.asp/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="40" height="40"/> </a> 
 
