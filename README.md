@@ -91,18 +91,6 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
 <br/>
 
 
-### 📊 Github Stats
-
-<a href='https://github.com/mahmoudessam820'>
-
-![Stats Overview](https://raw.githubusercontent.com/mahmoudessam820/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/mahmoudessam820/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-
-<br/>
-
 ### 🛠️ My Projects
 <a href="https://github.com/mahmoudessam820/heavy-equip-market" target="_blank"> <img alt="artistify" src="./projects/home-q.png" height="200" align="left"> </a>
 
