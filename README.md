@@ -48,14 +48,10 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
 </a>
 
-<!-- Flask -->
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a>
 
 <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
 </a>
 
 <!-- FastAPI -->
@@ -107,4 +103,4 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
 
 <a href="https://github.com/mahmoudessam820/planpilot" target="_blank"> <img alt="sheetsdatabase" src="./projects/home.png"  height="68" align="left"> </a>
 
-<a href="https://github.com/mahmoudessam820/bytestream" target="_blank"> <img alt="readmeicons" src="./projects/home.png" height="68" align="left"> </a>
+<a href="https://github.com/mahmoudessam820/bytestream" target="_blank"> <img alt="readmeicons" src="./projects/home-s.png" height="68" align="left"> </a>
