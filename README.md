@@ -1,55 +1,110 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Essam</h1>
-<h3 align="center">A full stack developer.</h3>
+## Hey 👋, I'm Mahmoud Essam!
+<a href='https://www.linkedin.com/in/mahmoud-essam-822719149/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
+
+<a href='https://twitter.com/Mahmoud42275'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
 
 
-- 📝 I regularly write articles and solve problems on [Dev.to](https://dev.to/mahmoudessam)
+I’m a versatilist who seamlessly adapts to various roles—including full-stack web development 🌐—based on the needs of each project. I have a strong passion for exploring new technologies 💻 and enjoy leveraging them to build innovative and impactful solutions 🛠️.
+<br/>
+<br/>
 
-- 📫 How to reach me **esame4166@gmail.com**
+<img align="right" alt="GIF" src="techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 &nbsp; I’m currently working on **project-management-app**
+- 🌱 &nbsp; I’m currently learning DevOps; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mahmoudessam820?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mahmoud-essam-822719149/)
+- 📝 &nbsp; Checkout my [portfolio](https://clear-sleet.surge.sh/)
+- 📝 &nbsp; I regularly write articles and solve problems on [Dev.to](https://dev.to/mahmoudessam)
 
-<p align="left">
+<br>
 
-<a href="https://www.linkedin.com/in/mahmoud-essam-822719149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-essam" height="30" width="40" /></a>
+### 🔨 Languages and Tools:
+<!-- HTML -->
+<a href="https://www.w3schools.com/html/default.asp/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> 
+</a>
 
-<a href="https://twitter.com/Mahmoud42275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mahmoud42275" height="30" width="40" /></a>
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/default.asp/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="40" height="40"/> 
+</a>
 
-</p>
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+
+<!-- Vue.js -->
+<a href="https://vuejs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+</a>
+
+<!-- Flask -->
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+</a>
+
+<!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+</a>
+
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a>
+
+<!-- Postman -->
+<a href="https://postman.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+<br>
 
 
-<a href="https://www.w3schools.com/html/default.asp/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> </a> 
+### 📊 Github Stats
+<a href='https://github.com/mahmoudessam820/planpilot'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-<a href="https://www.w3schools.com/css/default.asp/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="40" height="40"/> </a> 
+</a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<br>
 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+### 🛠️ My Projects
+<a href="https://github.com/mahmoudessam820/heavy-equip-market" target="_blank"> <img alt="artistify" src="./projects/home-q.png" height="68" align="left"> </a>
 
-<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://github.com/mahmoudessam820/planpilot" target="_blank"> <img alt="sheetsdatabase" src="./projects/home.png"  height="68" align="left"> </a>
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-
-</p>
-
-
-- 👨‍💻 All of my projects are available 👉  [here](https://github.com/mahmoudessam820?tab=repositories)
-
-
-- 🔭 I’m currently Looking for an opportunity.
-- 👯 I'm looking to collaborate open-source project.
-- 🌱 I’m currently learning Django.
-- 📫 How to reach me: esame4166@gmail.com.
+<a href="https://github.com/mahmoudessam820/bytestream" target="_blank"> <img alt="readmeicons" src="./projects/home.png" height="68" align="left"> </a>
