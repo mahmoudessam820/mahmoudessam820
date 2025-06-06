@@ -3,11 +3,11 @@
 
 <a href='https://twitter.com/Mahmoud42275'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
 
-<br/>
+<br>
 
 I’m a versatilist who seamlessly adapts to various roles—including full-stack web development 🌐—based on the needs of each project. I have a strong passion for exploring new technologies 💻 and enjoy leveraging them to build innovative and impactful solutions 🛠️.
 
-<br/>
+<br>
 
 
 <img align="right" alt="GIF" src="techstack.gif" width="360px"/>
@@ -23,7 +23,7 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
 - 📝 &nbsp; I regularly write articles and solve problems on [Dev.to](https://dev.to/mahmoudessam)
 
 
-<br/>
+<br>
 
 ### 🔨 Languages and Tools:
 <!-- HTML -->
@@ -88,7 +88,7 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
 </a>
 
 
-<br/>
+<br>
 
 
 ### 🛠️ My Projects
