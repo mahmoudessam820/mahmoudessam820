@@ -3,6 +3,7 @@
 
 <a href='https://twitter.com/Mahmoud42275'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
 
+<br/>
 
 I’m a versatilist who seamlessly adapts to various roles—including full-stack web development 🌐—based on the needs of each project. I have a strong passion for exploring new technologies 💻 and enjoy leveraging them to build innovative and impactful solutions 🛠️.
 <br/>
@@ -21,6 +22,8 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
 - 📝 &nbsp; I regularly write articles and solve problems on [Dev.to](https://dev.to/mahmoudessam)
 
 <br>
+
+<br/>
 
 ### 🔨 Languages and Tools:
 <!-- HTML -->
@@ -99,8 +102,8 @@ I’m a versatilist who seamlessly adapts to various roles—including full-stac
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/mahmoudessam820/heavy-equip-market" target="_blank"> <img alt="artistify" src="./projects/home-q.png" height="68" align="left"> </a>
+<a href="https://github.com/mahmoudessam820/heavy-equip-market" target="_blank"> <img alt="artistify" src="./projects/home-q.png" height="100" align="left"> </a>
 
-<a href="https://github.com/mahmoudessam820/planpilot" target="_blank"> <img alt="sheetsdatabase" src="./projects/home.png"  height="68" align="left"> </a>
+<a href="https://github.com/mahmoudessam820/planpilot" target="_blank"> <img alt="sheetsdatabase" src="./projects/home.png"  height="100" align="left"> </a>
 
-<a href="https://github.com/mahmoudessam820/bytestream" target="_blank"> <img alt="readmeicons" src="./projects/home-s.png" height="68" align="left"> </a>
+<a href="https://github.com/mahmoudessam820/bytestream" target="_blank"> <img alt="readmeicons" src="./projects/home-s.png" height="100" align="left"> </a>
